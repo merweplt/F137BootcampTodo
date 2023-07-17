@@ -1,24 +1,11 @@
-# flutter_application_1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ## TODO UYGULAMASI
-## Akıllı Çöp Kutusu( eski uygulama fikrim Sprint 1 konusu)
+
+# Akıllı Çöp Kutusu( eski uygulama fikrim Sprint 1 konusu)
+
 ## OAU-F137
 Takım Flutter 137 <br>
-oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
+oyun ve uygulama akademisi kapsamında geliştirdiğim mobil uygulama
 
 ## Takım Elemanları
 . MERVE POLAT-Scrum Master-Developer-Product Owner <br>
@@ -26,11 +13,12 @@ oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
 . ÜMİT ŞİMŞEK- Aktif Olmayan Üye<br>
 . BUSE MAĞDEN-Aktif Olmayan üye <br>
 . LALE TATLI-Aktif Olmayan üye <br>
- # Ürün İsmi
-  ToDo Uygulaması(Akıllı Çöp Kutusu eski fikrimizdi Sprint 2 v 3 de bahsettiğim olaydan ötürü değiştirdik.
 
-## Ürün Açıklaması
-**bu kısım sprint 2 ve 3 de değişen durumlardan ötürü uyumsuz gözükebilir , ama süreci anlamanız dolayısıyla değiştirmeme kararı aldım.**
+ # Ürün İsmi
+  ToDo Uygulaması(Akıllı Çöp Kutusu eski fikrimizdi Sprint 2 v 3 de bahsettiğim olaydan ötürü değiştirdik.)
+
+## Ürün Açıklaması(çöp kutusu fikri için) 
+**bu kısım sprint 2 ve 3 de değişen durumlardan ötürü uyumsuz gözükebilir , ama süreci ve yaşadığım mağduriyeti anlamanız  dolayısıyla değiştirmeme kararı aldım.**
 
 
 Akıllı çöp kutusu ile yiyecek ve kullanılan diğer materyallerin takibi.
@@ -58,6 +46,9 @@ Hedefimiz gıda ve sağlık sektörlerinde bilinçli tüketim ve üretim, geri d
 
  
  *güncelleme: ulaştığım iki kişide bootcamp sürecinde ne yazıkki projeyi bıraktı(sprint2 tarihinde)
+
+
+ 
  # SPRİNT 1
 ## Sprint Review:
 Toplantı yapılarak Uygulama fikrine karar verilmiştir.
