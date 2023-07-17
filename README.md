@@ -31,6 +31,11 @@ oyun ve uygulama akademisi kapsamında geliştirdiğim mobil uygulama
  Takım arkadaşalrımıza ulaşmayı bekledik 2 takım arakadaşımız tarafından ulaşmaya çalıştık . Bu tarih bazında şuan ben dahil 3 kişi olarak devam edıyoruz. 
  Bu bize zamana kaybettirdi. Kalan gün içinde fikre karar verildi. Sprint 2 de kod kısmında hızlanma olacaktır.
 
+
+
+
+  *güncelleme: ulaştığım iki kişide bootcamp sürecinde ne yazıkki projeyi bıraktı(sprint2 tarihinde)
+
  
 
 ## Ürün Açıklaması(çöp kutusu fikri için) 
