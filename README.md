@@ -1,7 +1,7 @@
 
-## TODO UYGULAMASI
+# TODO UYGULAMASI
 
-# Akıllı Çöp Kutusu( eski uygulama fikrim Sprint 1 konusu)
+## NOT: Akıllı Çöp Kutusu( eski bootcamp  uygulama fikrim Sprint 1 konusu)
 
 ## OAU-F137
 Takım Flutter 137 <br>
