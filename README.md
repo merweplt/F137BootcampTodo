@@ -15,10 +15,26 @@ oyun ve uygulama akademisi kapsamında geliştirdiğim mobil uygulama
 . LALE TATLI-Aktif Olmayan üye <br>
 
  # Ürün İsmi
-  ToDo Uygulaması(Akıllı Çöp Kutusu eski fikrimizdi Sprint 2 v 3 de bahsettiğim olaydan ötürü değiştirdik.)
+  ToDo Uygulaması(Akıllı Çöp Kutusu eski fikrimizdi Sprint 2 v 3 de bahsettiğim olaydan ötürü değiştirdim.)
+ 
+
+## Ürün Açıklaması
+
+
+"To Do" uygulaması, karmaşık görev yönetimi süreçlerini basitleştirir ve kullanıcıların daha verimli, organize ve başarılı olmalarına yardımcı olur. Gelin "To Do"yu kullanarak hayatınızı daha düzenli hale getirin ve hedeflerinize ulaşmak için yardımcı olur
+
+## Hedef Kitle
+ *Öğrenci <br>
+ *Profesyonller <br>
+ *Ev Hanımları <br>
+ ## Juriye Not 
+ Takım arkadaşalrımıza ulaşmayı bekledik 2 takım arakadaşımız tarafından ulaşmaya çalıştık . Bu tarih bazında şuan ben dahil 3 kişi olarak devam edıyoruz. 
+ Bu bize zamana kaybettirdi. Kalan gün içinde fikre karar verildi. Sprint 2 de kod kısmında hızlanma olacaktır.
+
+ 
 
 ## Ürün Açıklaması(çöp kutusu fikri için) 
-**bu kısım sprint 2 ve 3 de değişen durumlardan ötürü uyumsuz gözükebilir , ama süreci ve yaşadığım mağduriyeti anlamanız  dolayısıyla değiştirmeme kararı aldım.**
+**bu kısım sprint 2 ve 3 de değişen durumlardan ötürü uyumsuz gözükebilir , ama süreci ve yaşadığım mağduriyeti anlamanız  dolayısıyla değiştirmeme kararı aldım.Çünkü fikrimiz hazırdı.**
 
 
 Akıllı çöp kutusu ile yiyecek ve kullanılan diğer materyallerin takibi.
